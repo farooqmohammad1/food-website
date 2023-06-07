@@ -1,0 +1,141 @@
+* {
+    box-sizing: border-box;
+}
+
+.food-munch-logo {
+    height: 80px;
+    width: 70px;
+}
+
+#navitem1 {
+    color: black
+}
+
+#navitem2 {
+    color: black
+}
+
+#navitem3 {
+    color: black
+}
+
+#navitem4 {
+    color: black
+}
+
+.banner-section {
+    background-image: url("https://i.ibb.co/m9sqsPH/download-1.jpg");
+    height: 500px;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading {
+    color: white;
+    font-size: 50px;
+}
+
+.para {
+    color: white;
+    font-size: 34px;
+}
+
+.btn1 {
+    height: 50px;
+    width: 130px;
+    background-color: yellow;
+    border-radius: 10px;
+    border: none;
+    margin-right: 15px;
+}
+
+.btn2 {
+    color: #d0b200;
+    height: 50px;
+    width: 130px;
+    border-radius: 10px;
+    border-color: yellow;
+    background-color: transparent;
+
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+}
+
+.wcu-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-section-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.offers {
+    border: 0.2px solid red;
+
+}
+
+.menu-section {
+    background-color: #f9fbfe;
+    border-radius: 10px;
+
+}
+
+.menu-section-heading {
+    color: black;
+
+
+}
+
+.menu-card {
+    border-radius: 15px;
+    padding: 20px;
+    border: 0.5px solid rgb(231, 222, 222);
+}
+
+.menu-item-image {
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.menu-card-heading {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.menu-card-link {
+    padding: 5px;
+    font-size: 20px;
+}
+
+.healthy-food-section {
+    border: 0.6px solid rgb(221, 209, 209);
+    border-radius: 8px;
+}
+
+.health-food-image {
+    border: none;
+   
+}
+.offers-section{
+    border:0.5px solid whitesmoke;
+    border-radius: 10px;
+}
+.thankyou-section{
+    border:0.6px solid white;
+    border-radius: 8px;
+}
+.thanks-sec-image{
+    height:130px;
+    width:150px;
+}
