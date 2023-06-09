@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.sub-container{
+    text-align: center;
+    border:1px solid rgb(216, 174, 174);
+    box-shadow: 2px 2px 2px 2px rgb(134, 125, 125);
+    margin: 3%;
+    border-radius: 10px;
+    padding-top: 2px;
+}
+@media screen and (min-width: 880px) {
+    .container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
+@media screen  (max-width:1200px) {
+    .container{
+        display:flex;
+        flex-direction:row;
+
+    }
+    
+}
